@@ -2,7 +2,7 @@
 
 int main() {
     char ch = 'a';
-    while(ch= 'a') {
+    while(ch<= 'a') {
         printf("%d \n", ch);
         ch++;
     }
