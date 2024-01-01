@@ -3,7 +3,7 @@
 int main() {
     char ch = 'a';
     while(ch= 'a') {
-        printf("%c \n", ch);
+        printf("%d \n", ch);
         ch++;
     }
 
