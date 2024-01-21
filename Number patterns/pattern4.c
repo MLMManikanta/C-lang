@@ -1,6 +1,8 @@
  #include <stdio.h>
 void main(){
-    int i,j,n,n1=1;
+    int i,j,n,n1;
+printf("Enter the number where to start the series \n");
+scanf("%d",&n1);
  printf("Enter no.of stars in series \n");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
